@@ -1,2 +1,1 @@
-where am i
-i code discord bots alot and some websites 🤷‍♂️
+I code Discord bots and occasionally make websites. I also have terrible grammar!
