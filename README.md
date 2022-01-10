@@ -5,7 +5,7 @@
     I've been coding for four years, I mainly code Discord bots now, and you can find me <strong> <a href="https://discord.gg/YbfS4FkryH">here</a></strong>
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
+<a href="https://github.com/wydalpaz/">
         <img src="https://komarev.com/ghpvc/?username=wydalpaz&color=blueviolet" />
   </a> 
 <br>
