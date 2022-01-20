@@ -2,7 +2,7 @@
     Hello there! I am <strong>Alpaz</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I've been coding for four years, I mainly code Discord bots now, and you can find me <strong> <a href="https://discord.gg/YbfS4FkryH">here</a></strong>
+    I've been coding for four years, I mainly code Discord bots now, and you can usually find me <strong> <a href="https://discord.gg/mtx">here</a></strong>
 <br>
 <br>
 <a href="https://github.com/wydalpaz/">
