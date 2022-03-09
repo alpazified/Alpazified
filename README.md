@@ -5,8 +5,8 @@
     I've been coding for four years, I mainly code Discord bots now, and you can usually find me <strong> <a href="https://discord.gg/mtx">here</a></strong>
 <br>
 <br>
-<a href="https://github.com/wydalpaz/">
-        <img src="https://komarev.com/ghpvc/?username=wydalpaz&color=blueviolet" />
+<a href="https://github.com/Alpazified/">
+        <img src="https://komarev.com/ghpvc/?username=Alpazified&color=blueviolet" />
   </a> 
 <br>
 <br>
@@ -16,7 +16,7 @@
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/wydalpaz/">
+    <a href="https://github.com/Alpazified/">
         <img src="./assets/icons/socialmedia-icons/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -24,7 +24,7 @@
         <img src="./assets/icons/socialmedia-icons/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/wydalpaz/">
+    <a href="https://twitter.com/goawaylol/">
         <img src="./assets/icons/socialmedia-icons/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -35,15 +35,15 @@
 </p>
 <hr/>
 <p align="center">
-    <a href="https://github.com/wydalpaz/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=wydalpaz&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <a href="https://github.com/Alpazified/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Alpazified&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a> 
-  <a href="https://github.com/wydalpaz/">
-        <img src="https://github-readme-stats.vercel.app/api?username=wydalpaz&show_icons=true&theme=nightowl" />
+  <a href="https://github.com/Alpazified/">
+        <img src="https://github-readme-stats.vercel.app/api?username=Alpazified&show_icons=true&theme=nightowl" />
   </a> 
 <br>
-<a href="https://github.com/wydalpaz/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wydalpaz&theme=nightowl&langs_count=8&layout=compact" />
+<a href="https://github.com/Alpazified/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpazified&theme=nightowl&langs_count=8&layout=compact" />
   </a> 
 </p>
 
